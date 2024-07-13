@@ -1,0 +1,22 @@
+Key down: KEY_H
+Key down: KEY_E
+Key down: KEY_L
+Key down: KEY_L
+Key down: KEY_O
+Key down: SPACE
+Key down: KEY_T
+Key down: KEY_H
+Key down: KEY_I
+Key down: KEY_S
+Key down: SPACE
+Key down: KEY_I
+Key down: KEY_S
+Key down: SPACE
+Key down: KEY_J
+Key down: KEY_E
+Key down: KEY_R
+Key down: KEY_O
+Key down: KEY_M
+Key down: KEY_E
+Key down: LEFT CTRL
+Key down: KEY_C

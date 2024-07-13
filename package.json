@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-global-key-listener": "^0.3.0",
+    "robotjs": "^0.6.0"
+  }
+}
