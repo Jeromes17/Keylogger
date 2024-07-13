@@ -1,10 +1,10 @@
 # Keylogger
 This Project is done during my Internship and was built by some reference codes which was given from the company itself. 
 
-This project was created using node js
+This project was created using node js.
 
-index.js - The main file which will do the keylogging function
-keycodes.js - This contains the key codes for the every keys that you will press
+index.js - The main file which will do the keylogging function.
+keycodes.js - This contains the key codes for the every keys that you will press.
 test.js - This will create the output file as .txt and show the result of keylogging
 
 Demonstration:
